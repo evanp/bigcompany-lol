@@ -1,6 +1,6 @@
 {
     "name": "Big Company",
-    "type": "city",
+    "type": "company",
     "identifiers": {
         "LEI": "EEEE00D3F2B86A389E18",
         "DUNS": "123456"
